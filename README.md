@@ -18,6 +18,8 @@ java、sql、servlet、jsp、jdbc、jstl、html、css、JavaScript、jQuery
 ![QQ图片20210704000953](https://user-images.githubusercontent.com/39235304/124360724-cdef1880-dc5d-11eb-9bc7-cbd65c1817db.png)
 ## 我的订单
 ![QQ图片20210704001215](https://user-images.githubusercontent.com/39235304/124360727-d0ea0900-dc5d-11eb-9c86-98ef1f1e3a34.png)
+## 订单详情
+![image](https://user-images.githubusercontent.com/39235304/124360760-0abb0f80-dc5e-11eb-855c-3cf273563de3.png)
 ## 后台管理
 ![QQ图片20210704001245](https://user-images.githubusercontent.com/39235304/124360731-d47d9000-dc5d-11eb-8632-a3d1e982113b.png)
 ## 订单管理
