@@ -114,6 +114,8 @@ div {
 
 .logo_img {
     float: left;
+    width: 210px;
+    height: 95px;
 }
 
 #header div a {
