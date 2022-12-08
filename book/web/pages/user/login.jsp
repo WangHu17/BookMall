@@ -22,7 +22,6 @@
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/icon?family=Material+Icons'>
 </head>
-
 <body>
 
 <div class="cotn_principal">
